@@ -1,1 +1,2 @@
 "This is our 1st feature for the application"
+This is a bug fix in the development branch
